@@ -1,0 +1,12 @@
+AllCops:
+  Exclude:
+    - 'vendor/**/*'
+# to exclude files
+
+Documentation:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 120
+(or (not tested yet))
+  Enabled: false
