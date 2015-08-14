@@ -1,0 +1,507 @@
+----------------------------------------------------------------------------------
+BODY
+
+body {
+  font-family: Helvetica, Arial, Sans-serif;
+/*  font-family: "Comic Sans MS", cursive, sans-serif;*/
+/*  font-family: Tahoma, sans-serif;*/
+  text-align:center;
+  font-size: 15px;
+  line-height: 21px;
+  text-shadow: 4px 4px 4px #aaa;
+  background-image: url(/images/guillaume.jpg);
+  background-repeat: no-repeat;
+/*  background: url(boubou.jpg) no-repeat; */
+  background-attachment: fixed;
+  background-position: center;
+/*  background-size: cover;*/
+  color: #000068;   
+}
+
+/*making sure it take the full height of the page*/
+html, body {
+  height: 100%;
+}
+
+----------------------------------------------------------------------------------
+LINKS
+/* no links should be underlined */
+
+a, a:hover {
+  text-decoration: none;
+}
+
+----------------------------------------------------------------------------------
+TABLES
+/*table from Thermostat */
+
+table {
+  width: 350px;
+  height: 100px;
+}
+
+table tr {
+  width: 100%;
+}
+
+table td {
+  width: 50%;
+  text-align:center;
+}
+
+/*table from Bowling challenge (with head and foot)*/
+
+table {
+  position:relative;
+  margin-top:1%;
+  width: 70%;
+  height: 25%;
+  font-family: Tahoma, sans-serif;
+  font-size: 14px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+thead {
+  background-color: #800000;
+  color: #FFCCCC;
+}
+
+tbody {
+  background-color: #B20000;
+  font-weight: thin;
+}
+
+tbody td {
+  width: 25px;
+}
+
+tbody tr, tfoot tr {
+  height: 48px;
+}
+
+tfoot {
+  background-color: #E60000;
+}
+
+th, td {
+  border:3px solid #B8B894;
+  text-align: center;
+  padding: 15px 5px;
+}
+
+----------------------------------------------------------------------------------
+LOGO - IMAGES
+/*logo - Bowling & Thermostat*/
+
+#logo {
+  background-image: url(image_name.gif);
+  width: 250px; height: 150px;
+  background-size: 100% 100%;
+  display: block;
+  margin: auto;
+}
+
+/*logo - Chitter (with <img class="logo" src='/images/chitter_logo.gif'> directly in html)*/
+
+img.logo {
+    display: block;
+    margin: auto
+}
+
+----------------------------------------------------------------------------------
+GUILLAUME BUTTONS
+
+.guillaume_button_class {
+  -moz-box-shadow:inset 0px 1px 11px -18px #f9eca0;
+  -webkit-box-shadow:inset 0px 1px 11px -18px #f9eca0;
+  box-shadow:inset 0px 1px 11px -18px #f9eca0;
+  background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f0c911), color-stop(1, #f2ab1e));
+  background:-moz-linear-gradient(top, #f0c911 5%, #f2ab1e 100%);
+  background:-webkit-linear-gradient(top, #f0c911 5%, #f2ab1e 100%);
+  background:-o-linear-gradient(top, #f0c911 5%, #f2ab1e 100%);
+  background:-ms-linear-gradient(top, #f0c911 5%, #f2ab1e 100%);
+  background:linear-gradient(to bottom, #f0c911 5%, #f2ab1e 100%);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0c911', endColorstr='#f2ab1e',GradientType=0);
+  background-color:#f0c911;
+  -moz-border-radius:26px;
+  -webkit-border-radius:26px;
+  border-radius:26px;
+  border:1px solid #6b2a1d;
+  display:inline-block;
+  cursor:pointer;
+  color:#473500;
+  font-family:Arial;
+  font-size:10px;
+  font-weight:bold;
+  padding:2px 7px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #ded17c;
+/*  text-shadow: 0 0 2px rgba(0,0,0, 0.4);
+  margin-left: 20px;
+  margin-right: 20px;*/
+}
+
+.guillaume_button_class:hover {
+  background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f2ab1e), color-stop(1, #f0c911));
+  background:-moz-linear-gradient(top, #f2ab1e 5%, #f0c911 100%);
+  background:-webkit-linear-gradient(top, #f2ab1e 5%, #f0c911 100%);
+  background:-o-linear-gradient(top, #f2ab1e 5%, #f0c911 100%);
+  background:-ms-linear-gradient(top, #f2ab1e 5%, #f0c911 100%);
+  background:linear-gradient(to bottom, #f2ab1e 5%, #f0c911 100%);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f2ab1e', endColorstr='#f0c911',GradientType=0);
+  background-color:#f2ab1e;
+}
+.guillaume_button_class:active {
+  position:relative;
+  top:1px;
+}
+
+#guillaume_button_id_1 {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+#guillaume_button_id_2 {
+  line-height: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+GUILLAUME TRANSPARENT BUTTONS - IMAGES (BOWLING NUMBERS)
+
+#hit0 {
+  background-image: url(0.gif);
+  background-color: Transparent;
+  background-repeat:no-repeat;
+  border: none;
+  cursor:pointer;
+  overflow: hidden;
+  outline:none;
+  width: 59px; height: 59px;
+  background-size: 100% 100%;
+  display: block;
+  margin: auto;
+  float:left;
+}
+
+#hit0:hover {
+  background-image: url(0_over.gif);
+  background-color: Transparent;
+  background-repeat:no-repeat;
+  border: none;
+  cursor:pointer;
+  overflow: hidden;
+  outline:none;
+  width: 59px; height: 59px;
+  background-size: 100% 100%;
+  display: block;
+  margin: auto;
+  float:left;
+}
+
+
+----------------------------------------------------------------------------------
+BOX - CONTAINER
+
+.container {
+  background-image: url(/images/container_background.jpg);
+/*  background-color: red;
+  background-position: center;
+  background-size: 100% 100%;*/
+  font-family: 'Orbitron', serif;
+  font-size: 24px;
+  text-shadow: 4px 4px 4px #aaa;
+  letter-spacing: 1px;  
+  color: #666666;
+  text-align:center;
+/*  width: 320px;
+  height: 240px;
+  OR
+  margin: 40px;*/
+  margin-left: 50px;
+  margin-right: 50px;
+/*  margin: auto;*/
+  margin-top: 25px;
+  margin-bottom: 25px;
+/*  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;*/
+  padding: 10px 10px;
+/*  min-height: 100px;*/
+  line-height: 200%;
+  border: 2px solid #1900BC;
+  border-radius:10px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.4);
+/*  display:block;*/
+/*  display: inline-block;*/
+/*  OR
+  width: 50%;
+  height: 25%;
+  overflow: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+  OR
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -170px;
+  margin-left: -310px;
+  OR
+  float: right;
+  */
+}
+
+----------------------------------------------------------------------------------
+H1, H2, H3, RANDOM ATTRIBUTES
+
+h1 {
+  background-image: url(/images/random_image.jpg);
+  font-family:Helvetica;
+  font-size:11px;
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: underline;
+  color: #00009E;
+  position:relative;
+  float: right;
+  line-height: 20px;
+  border-top: 2px solid #875A00;
+  margin-top: -10px;
+  margin-top:2%;
+  margin-bottom: 20px;
+  margin-right: -1px;
+  margin-left: 50px;
+  display: inline-block;
+}
+
+----------------------------------------------------------------------------------
+HEADER & HEADER LINKS
+
+/*Header from Bookmark Manager & Chitter*/
+
+header {  
+  height: 40px;
+/*  background-color: black;*/
+  background:rgba(0,0,0,0.5);
+  color: white;
+  display: flex; /* http://learnlayout.com/flexbox.html */
+  padding: 0 20px;
+/*  border-color: black;
+  border-style: solid;*/
+}
+
+/* every immediate child to be vertically centered */
+header > * {
+  margin: auto 0;
+}
+header #logo {    
+  display: flex;      
+  margin-right: 20px;   
+}
+
+header a {
+  color: white;
+}
+
+header #user-links {
+  flex: 1; /* http://learnlayout.com/flexbox.html */
+  -webkit-flex: 1;
+  text-align: right;  
+}
+
+header #user-links > * {
+  display: inline-block;
+}
+
+header #user-links #welcome-message {
+  font-size: 14px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
+----------------------------------------------------------------------------------
+FOOTER & FOOTER LINKS
+
+/*Footer from Bookmark Manager */
+
+footer {
+  display: flex;
+  background-color: rgba(0,0,0,0.2);
+  height: 70px; /* because of the sticky footer */
+}
+
+footer > * {
+  margin: auto inherit;
+}
+
+footer img {
+  vertical-align: top;
+}
+
+footer #technologies {
+  -webkit-flex: 1;
+  flex: 1;
+  font-size: 12px;
+}
+
+footer p {
+  padding: 5px 25px;
+}
+
+/* http://ryanfait.com/resources/footer-stick-to-bottom-of-page/ */
+.footer, .push {
+  height: 70px;
+}
+
+----------------------------------------------------------------------------------
+MARQUEE
+
+/*from Thermostat*/
+
+#marquee {
+  width: 320px;
+  behavior: scroll;
+  direction: left;
+  position:fixed;
+  top: 500px;
+  margin-left:-160px;
+}
+
+----------------------------------------------------------------------------------
+CUSTOMISED CHECKBOX
+
+/*From Rock Paper Scissors*/
+
+.regular-checkbox {
+  -webkit-appearance: none;
+  background-color: #fafafa;
+  border: 1px solid #cacece;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05), inset 0px -15px 10px -12px rgba(0,0,0,0.05);
+  padding: 6px;
+  border-radius: 5px;
+  display: inline-block;
+  position: relative;
+}
+
+.regular-checkbox:active, .regular-checkbox:checked:active {
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05), inset 0px 1px 3px rgba(0,0,0,0.1);
+}
+
+.regular-checkbox:checked {
+  background-color: #e9ecee;
+  border: 1px solid #adb8c0;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05), inset 0px -15px 10px -12px rgba(0,0,0,0.05), inset 15px 10px -12px rgba(255,255,255,0.1);
+  color: #99a1a7;
+}
+
+.regular-checkbox:checked:after {
+  content: '\2714';
+  font-size: 13px;
+  position: absolute;
+  top: -2px;
+  left: 2px;
+  color: #C40000;
+}
+
+----------------------------------------------------------------------------------
+FLASH & ALERTS
+
+/*from Bookmark Manager*/
+
+.flash {
+  text-align: center;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 4px;
+  box-shadow: 0 0 3px rgba(0,0,0,0.4);
+  color: white;
+}
+
+.flash.notice {
+  background-color: rgba(67,183,120,0.75);
+}
+
+.flash.error {
+  background-color: rgba(169,29,42,0.75); 
+}
+
+/*From Chitter (and with cool little icons)*/
+
+.flash {
+  background: url(/images/error-icon.png), url(/images/error-icon.png);
+  background-size: 28px 28px;
+  background-position: 1% 1px, 99% 1px;
+  background-repeat: no-repeat;
+  text-align: center;
+  width: 40%;
+  margin: auto;
+  margin-top: 25px;
+  padding: 5px;
+  border-radius: 4px;
+  border: 2px solid #B60012;
+  box-shadow: 0 0 3px rgba(0,0,0,0.4);
+  color: white;
+  background-color: #FD0019;
+}
+
+#error {
+  position: fixed;
+  margin-left: 42%;
+}
+
+----------------------------------------------------------------------------------
+FORM
+
+form {
+  text-align: left;
+}
+
+form p {
+  margin: 10px 0;
+}
+
+form input[type="text"], form input[type="password"] {
+  border: 1px solid black;
+  font-size: 16px;
+  width: 400px;
+}
+
+FOR THE TEXT AREA IN A FORM
+/*and with for example in HTML: Message: <textarea class="styled" name="message"></textarea>*/
+
+textarea.styled {
+  width: 300px;
+  height: 40px;
+  border: 3px solid #cccccc;
+  padding: 5px;
+  font-family: Tahoma, sans-serif;
+  background-image: url(bg.gif);
+  background-position: bottom right;
+  background-repeat: no-repeat;
+}
+--------------------------------------------------------------
+
+BOOKMARK MANAGER
+WHAT IS THAT?
+* {
+  box-sizing: border-box;
+}
+
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -70px;
+}
+
+-------------------------
+AWESOME NEON EFFECT
+
+text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #ff00de, 0 0 70px #ff00de, 0 0 80px #ff00de, 0 0 100px #ff00de, 0 0 150px #ff00de;
+
+FIRE EFFECT
+
+text-shadow: 0 0 20px #fefcc9, 10px -10px 30px #feec85, -20px -20px 40px #ffae34, 20px -40px 50px #ec760c, -20px -60px 60px #cd4606, 0 -80px 70px #973716, 10px -90px 80px #451b0e;
+
+
+
