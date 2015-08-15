@@ -10,3 +10,7 @@ Metrics/LineLength:
   Max: 120
 (or (not tested yet))
   Enabled: false
+
+# Assignment Branch Condition size for plot_defaults is too high
+Metrics/AbcSize:
+  Enabled: false
