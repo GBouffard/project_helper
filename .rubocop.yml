@@ -6,11 +6,16 @@ AllCops:
 Documentation:
   Enabled: false
 
+# Line is too long
 Metrics/LineLength:
   Max: 120
-(or (not tested yet))
+# or
   Enabled: false
 
 # Assignment Branch Condition size for plot_defaults is too high
 Metrics/AbcSize:
+  Enabled: false
+
+# Method has too many lines
+Metrics/MethodLength:
   Enabled: false
