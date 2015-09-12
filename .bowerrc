@@ -1,0 +1,3 @@
+#after bower_components has been moved into public
+
+{ "directory": "public/bower_components" }
