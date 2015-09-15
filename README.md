@@ -1,3 +1,3 @@
-Rubocop muzzler
+:floppy_disk: Project Helper :minidisc:
 ===========
-A simple reminder of the useful commands to disable in rubocop in the .rubocop.yml file.
+A reminder of the most useful files and set-up for diverse projects written in Ruby and JavaScript.
