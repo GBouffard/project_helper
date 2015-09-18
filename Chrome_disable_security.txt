@@ -1,0 +1,6 @@
+If Jasmine / Protractor do not run when they should, disable Chrome Security.
+These are the 2 commands:
+
+open /Applications/Google\ Chrome.app --args --allow-file-access-from-files
+
+open -a Google\ Chrome --args --disable-web-security
