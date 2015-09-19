@@ -1,0 +1,25 @@
+DEBUGGING
+
+ruby: 
+- p/puts variables
+- irb
+- byebug: require ‘byebug’ & 'byebug' (_spec files)
+
+
+sinatra:
+- p/puts 
+- p params / p session
+
+
+javaScript:
+- console.log(variable)
+
+
+jQuery:
+- inspect element
+
+
+Disable Google Chrome Security (web/Jasmine/Protractor):
+- 2 commands possible:
+open /Applications/Google\ Chrome.app --args --allow-file-access-from-files
+open -a Google\ Chrome --args --disable-web-security
