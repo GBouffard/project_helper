@@ -12,7 +12,8 @@ sinatra:
 
 
 javaScript:
-- console.log(variable)
+- console.log(variable);
+- alert(this.variable);
 
 
 jQuery:
