@@ -1,7 +1,9 @@
-h1. Sublime Text 2 - Useful Shortcuts
+## Sublime Text - Useful Shortcuts
 
-h2. Editing
+### Editing:
 
+| Keypress | Command |
+| ------------ | ----------- |
 | *⌘ + ← or →* | Go to beginning / end of a line |
 | *⌘ + ↩* | Insert line after |
 | *⌘ + ⇧ + ↩* | Insert line before |
@@ -31,12 +33,12 @@ h2. Editing
 | *Ctrl + M* | Jump to closing parentheses Repeat to jump to opening parentheses |
 | *Ctrl + ⇧ + M* | Select all contents of the current parentheses |
 
+### Navigation & General:
 
-
-h2. Navigation & General
-
+| Keypress | Command |
+| ------------ | ----------- |
 | *⌘ + P or ⌘ + T* | quick-open files by name |
-| *Ctrl+G* | goto line in current file. Same as *Ctrl+P*, then type *:*|
+| *Ctrl+G* | goto line (and its number) in current file |
 | *⌘ + Ctrl + F* | Toggle fullscreen mode |
 | *⌘ + K, ⌘ + B* | Toggle side bar |
 | *⌘ + ↓* | Scroll to end of file |
@@ -44,7 +46,7 @@ h2. Navigation & General
 | *⌘ + ⇧ + [* | Cycle left through tabs |
 | *⌘ + ⇧ + ]* | Cycle right through tabs |
 | *⌘ + ⌥ + 2* | Split view into two columns |
-| *Ctrl + V* | Scroll down one page |
+| *Ctrl + V*  | Scroll down one page |
 | *fn +⌘ + F2* | Toggle bookmark |
 | *fn + F2* | Next bookmark |
 | *fn + ⇧ + F2* | Previous bookmark |
