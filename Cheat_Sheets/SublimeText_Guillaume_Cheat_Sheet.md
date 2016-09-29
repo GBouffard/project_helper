@@ -12,30 +12,29 @@
 | **⌘ + L** | Select line - Repeat to select next lines |
 | **⌘ + ⇧ + L, ←/→** | Go at the beginning / end of each line in the selection |
 | **⌘ + D** | Select word - Repeat to select next occurrence |
-| **⌘ + Ctrl + G** | Select all occurrences of current selection |
+| **⌘ + ctrl + G** | Select all occurrences of current selection |
 | **⌘ + ⇧ + Space** | Select actual scope |
 | **⌘ + K (twice)** | Delete from cursor to end of line |
-| **⌘ + ⇧ + [/]** | Un-indent/Indent current line(s) |
 | **⌘ + ⇧ + D** | Duplicate line(s) |
 | **⌘ + J** | Join line below to the end of the current line |
+| **⌘ + ⇧ + [/]** | Un-indent/Indent current line(s) |
 | **⌘ + /** | Comment/un-comment current line |
 | **⌘ + ⌥ + /** | Block comment current selection |
-| **⌘ + ⇧ + V** | Paste and indent correctly |
 | **⌘ + F** | Find |
 | **⌘ + ⌥ + F** | Replace |
-| **⌘ + ⇧ + F** | Find in files |
-| **Ctrl + M** | Jump between closing / opening parentheses |
-| **Ctrl + ⇧ + M** | Select all contents of the current parentheses |
+| **ctrl + M** | Jump between closing / opening parentheses |
+| **ctrl + ⇧ + M** | Select all contents of the current parentheses |
 
 ### Navigation & General:
 
 | Keypress | Command |
 | ------------ | ----------- |
 | **⌘ + P or ⌘ + T** | quick-open files by name |
-| **Ctrl+G** | goto line (and its number) in current file |
-| **⌘ + Ctrl + F** | Toggle fullscreen mode |
+| **ctrl+G** | goto line (and its number) in current file |
+| **⌘ + ⇧ + F** | Find in files |
+| **⌘ + ctrl + F** | Toggle fullscreen mode |
 | **⌘ + ⌥ + 2** | Split view into two columns |
-| **Ctrl + V**  | Scroll down one page |
+| **ctrl + V**  | Scroll down one page |
 | **fn +⌘ + F2** | Toggle bookmark |
 | **fn + F2** | Next bookmark |
 | **fn + ⇧ + F2** | Previous bookmark |
