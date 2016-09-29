@@ -28,9 +28,7 @@
 | **⌘ + F** | Find |
 | **⌘ + ⌥ + F** | Replace |
 | **⌘ + ⇧ + F** | Find in files |
-| **Ctrl + ⇧ + K** | Delete current line |
-| **Ctrl + ⇧ + W** | Wrap Selection in html tag |
-| **Ctrl + M** | Jump to closing parentheses Repeat to jump to opening parentheses |
+| **Ctrl + M** | Jump between closing / opening parentheses |
 | **Ctrl + ⇧ + M** | Select all contents of the current parentheses |
 
 ### Navigation & General:
@@ -40,11 +38,8 @@
 | **⌘ + P or ⌘ + T** | quick-open files by name |
 | **Ctrl+G** | goto line (and its number) in current file |
 | **⌘ + Ctrl + F** | Toggle fullscreen mode |
-| **⌘ + K, ⌘ + B** | Toggle side bar |
-| **⌘ + ↓** | Scroll to end of file |
-| **⌘ + ↑** | Scroll to start of file |
-| **⌘ + ⇧ + [** | Cycle left through tabs |
-| **⌘ + ⇧ + ]** | Cycle right through tabs |
+| **⌘ + ↑/↓** | Scroll to start / end of file |
+| **⌘ + ⇧ + [/]** | Cycle left/right through tabs |
 | **⌘ + ⌥ + 2** | Split view into two columns |
 | **Ctrl + V**  | Scroll down one page |
 | **fn +⌘ + F2** | Toggle bookmark |
