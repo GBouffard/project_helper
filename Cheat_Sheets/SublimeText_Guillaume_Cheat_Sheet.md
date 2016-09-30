@@ -21,7 +21,6 @@
 | **⌘ + /** | Comment/un-comment current line |
 | **⌘ + ⌥ + /** | Block comment current selection |
 | **⌘ + F** | Find |
-| **⌘ + ⌥ + F** | Replace |
 | **ctrl + M** | Jump between closing / opening parentheses |
 | **ctrl + ⇧ + M** | Select all contents of the current parentheses |
 
