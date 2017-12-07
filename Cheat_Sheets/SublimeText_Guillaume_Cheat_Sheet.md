@@ -17,7 +17,7 @@
 | **⌘ + K (twice)** | Delete from cursor to end of line |
 | **⌘ + ⇧ + D** | Duplicate line(s) |
 | **⌘ + J** | Join line below to the end of the current line |
-| **⌘ + ⇧ + [/]** | Un-indent/Indent current line(s) |
+| **⌘ + [/]** | Un-indent/Indent current line(s) |
 | **⌘ + /** | Comment/un-comment current line |
 | **⌘ + ⌥ + /** | Block comment current selection |
 | **⌘ + F** | Find |
