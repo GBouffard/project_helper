@@ -1,147 +1,149 @@
 ### Named colors
 
-- ![](https://placehold.it/15/000000/000000?text=+) black (#000000)
-- ![](https://placehold.it/15/000080/000000?text=+) navy (#000080)
-- ![](https://placehold.it/15/00008b/000000?text=+) darkblue (#00008b)
-- ![](https://placehold.it/15/191970/000000?text=+) midnightblue (#191970)
-- ![](https://placehold.it/15/0000cd/000000?text=+) mediumblue (#0000cd)
-- ![](https://placehold.it/15/0000ff/000000?text=+) blue (#0000ff)
-- ![](https://placehold.it/15/006400/000000?text=+) darkgreen (#006400)
-- ![](https://placehold.it/15/008000/000000?text=+) green (#008000)
-- ![](https://placehold.it/15/008080/000000?text=+) teal (#008080)
-- ![](https://placehold.it/15/008b8b/000000?text=+) darkcyan (#008b8b)
-- ![](https://placehold.it/15/00bfff/000000?text=+) deepskyblue (#00bfff)
-- ![](https://placehold.it/15/00ced1/000000?text=+) darkturquoise (#00ced1)
-- ![](https://placehold.it/15/00fa9a/000000?text=+) mediumspringgreen (#00fa9a)
-- ![](https://placehold.it/15/00ff00/000000?text=+) lime (#00ff00)
-- ![](https://placehold.it/15/00ff7f/000000?text=+) springgreen (#00ff7f)
-- ![](https://placehold.it/15/00ffff/000000?text=+) aqua (#00ffff)
-- ![](https://placehold.it/15/00ffff/000000?text=+) cyan (#00ffff)
-- ![](https://placehold.it/15/1e90ff/000000?text=+) dodgerblue (#1e90ff)
-- ![](https://placehold.it/15/20b2aa/000000?text=+) lightseagreen (#20b2aa)
-- ![](https://placehold.it/15/228b22/000000?text=+) forestgreen (#228b22)
-- ![](https://placehold.it/15/2e8b57/000000?text=+) seagreen (#2e8b57)
-- ![](https://placehold.it/15/2f4f4f/000000?text=+) darkslategrey (#2f4f4f)
-- ![](https://placehold.it/15/32cd32/000000?text=+) limegreen (#32cd32)
-- ![](https://placehold.it/15/3cb371/000000?text=+) mediumseagreen (#3cb371)
-- ![](https://placehold.it/15/40e0d0/000000?text=+) turquoise (#40e0d0)
-- ![](https://placehold.it/15/4169e1/000000?text=+) royalblue (#4169e1)
-- ![](https://placehold.it/15/4682b4/000000?text=+) steelblue (#4682b4)
-- ![](https://placehold.it/15/483d8b/000000?text=+) darkslateblue (#483d8b)
-- ![](https://placehold.it/15/48d1cc/000000?text=+) mediumturquoise (#48d1cc)
-- ![](https://placehold.it/15/4b0082/000000?text=+) indigo (#4b0082)
-- ![](https://placehold.it/15/556b2f/000000?text=+) darkolivegreen (#556b2f)
-- ![](https://placehold.it/15/5f9ea0/000000?text=+) cadetblue (#5f9ea0)
-- ![](https://placehold.it/15/6495ed/000000?text=+) cornflowerblue (#6495ed)
-- ![](https://placehold.it/15/663399/000000?text=+) rebeccapurple (#663399)
-- ![](https://placehold.it/15/66cdaa/000000?text=+) mediumaquamarine (#66cdaa)
-- ![](https://placehold.it/15/696969/000000?text=+) dimgray (#696969)
-- ![](https://placehold.it/15/696969/000000?text=+) dimgrey (#696969)
-- ![](https://placehold.it/15/6a5acd/000000?text=+) slateblue (#6a5acd)
-- ![](https://placehold.it/15/6b8e23/000000?text=+) olivedrab (#6b8e23)
-- ![](https://placehold.it/15/708090/000000?text=+) slategray (#708090)
-- ![](https://placehold.it/15/778899/000000?text=+) lightslategrey (#778899)
-- ![](https://placehold.it/15/7b68ee/000000?text=+) mediumslateblue (#7b68ee)
-- ![](https://placehold.it/15/7cfc00/000000?text=+) lawngreen (#7cfc00)
-- ![](https://placehold.it/15/7fff00/000000?text=+) chartreuse (#7fff00)
-- ![](https://placehold.it/15/7fffd4/000000?text=+) aquamarine (#7fffd4)
-- ![](https://placehold.it/15/800000/000000?text=+) maroon (#800000)
-- ![](https://placehold.it/15/800080/000000?text=+) purple (#800080)
-- ![](https://placehold.it/15/808000/000000?text=+) olive (#808000)
-- ![](https://placehold.it/15/808080/000000?text=+) gray (#808080)
-- ![](https://placehold.it/15/808080/000000?text=+) grey (#808080)
-- ![](https://placehold.it/15/87ceeb/000000?text=+) skyblue (#87ceeb)
-- ![](https://placehold.it/15/87cefa/000000?text=+) lightskyblue (#87cefa)
-- ![](https://placehold.it/15/8a2be2/000000?text=+) blueviolet (#8a2be2)
-- ![](https://placehold.it/15/8b0000/000000?text=+) darkred (#8b0000)
-- ![](https://placehold.it/15/8b008b/000000?text=+) darkmagenta (#8b008b)
-- ![](https://placehold.it/15/8b4513/000000?text=+) saddlebrown (#8b4513)
-- ![](https://placehold.it/15/8fbc8f/000000?text=+) darkseagreen (#8fbc8f)
-- ![](https://placehold.it/15/90ee90/000000?text=+) lightgreen (#90ee90)
-- ![](https://placehold.it/15/9370db/000000?text=+) mediumpurple (#9370db)
-- ![](https://placehold.it/15/9400d3/000000?text=+) darkviolet (#9400d3)
-- ![](https://placehold.it/15/98fb98/000000?text=+) palegreen (#98fb98)
-- ![](https://placehold.it/15/9932cc/000000?text=+) darkorchid (#9932cc)
-- ![](https://placehold.it/15/9acd32/000000?text=+) yellowgreen (#9acd32)
-- ![](https://placehold.it/15/a0522d/000000?text=+) sienna (#a0522d)
-- ![](https://placehold.it/15/a52a2a/000000?text=+) brown (#a52a2a)
-- ![](https://placehold.it/15/a9a9a9/000000?text=+) darkgray (#a9a9a9)
-- ![](https://placehold.it/15/a9a9a9/000000?text=+) darkgrey (#a9a9a9)
-- ![](https://placehold.it/15/add8e6/000000?text=+) lightblue (#add8e6)
-- ![](https://placehold.it/15/adff2f/000000?text=+) greenyellow (#adff2f)
-- ![](https://placehold.it/15/afeeee/000000?text=+) paleturquoise (#afeeee)
-- ![](https://placehold.it/15/b0c4de/000000?text=+) lightsteelblue (#b0c4de)
-- ![](https://placehold.it/15/b0e0e6/000000?text=+) powderblue (#b0e0e6)
-- ![](https://placehold.it/15/b22222/000000?text=+) firebrick (#b22222)
-- ![](https://placehold.it/15/b8860b/000000?text=+) darkgoldenrod (#b8860b)
-- ![](https://placehold.it/15/ba55d3/000000?text=+) mediumorchid (#ba55d3)
-- ![](https://placehold.it/15/bc8f8f/000000?text=+) rosybrown (#bc8f8f)
-- ![](https://placehold.it/15/bdb76b/000000?text=+) darkkhaki (#bdb76b)
-- ![](https://placehold.it/15/c0c0c0/000000?text=+) silver (#c0c0c0)
-- ![](https://placehold.it/15/c71585/000000?text=+) mediumvioletred (#c71585)
-- ![](https://placehold.it/15/cd5c5c/000000?text=+) indianred (#cd5c5c)
-- ![](https://placehold.it/15/cd853f/000000?text=+) peru (#cd853f)
-- ![](https://placehold.it/15/d2691e/000000?text=+) chocolate (#d2691e)
-- ![](https://placehold.it/15/d2b48c/000000?text=+) tan (#d2b48c)
-- ![](https://placehold.it/15/d3d3d3/000000?text=+) lightgray (#d3d3d3)
-- ![](https://placehold.it/15/d3d3d3/000000?text=+) lightgrey (#d3d3d3)
-- ![](https://placehold.it/15/d8bfd8/000000?text=+) thistle (#d8bfd8)
-- ![](https://placehold.it/15/da70d6/000000?text=+) orchid (#da70d6)
-- ![](https://placehold.it/15/daa520/000000?text=+) goldenrod (#daa520)
-- ![](https://placehold.it/15/db7093/000000?text=+) palevioletred (#db7093)
-- ![](https://placehold.it/15/dc143c/000000?text=+) crimson (#dc143c)
-- ![](https://placehold.it/15/dcdcdc/000000?text=+) gainsboro (#dcdcdc)
-- ![](https://placehold.it/15/dda0dd/000000?text=+) plum (#dda0dd)
-- ![](https://placehold.it/15/deb887/000000?text=+) burlywood (#deb887)
-- ![](https://placehold.it/15/e0ffff/000000?text=+) lightcyan (#e0ffff)
-- ![](https://placehold.it/15/e6e6fa/000000?text=+) lavender (#e6e6fa)
-- ![](https://placehold.it/15/e9967a/000000?text=+) darksalmon (#e9967a)
-- ![](https://placehold.it/15/ee82ee/000000?text=+) violet (#ee82ee)
-- ![](https://placehold.it/15/eee8aa/000000?text=+) palegoldenrod (#eee8aa)
-- ![](https://placehold.it/15/f08080/000000?text=+) lightcoral (#f08080)
-- ![](https://placehold.it/15/f0e68c/000000?text=+) khaki (#f0e68c)
-- ![](https://placehold.it/15/f0f8ff/000000?text=+) aliceblue (#f0f8ff)
-- ![](https://placehold.it/15/f0fff0/000000?text=+) honeydew (#f0fff0)
-- ![](https://placehold.it/15/f0ffff/000000?text=+) azure (#f0ffff)
-- ![](https://placehold.it/15/f4a460/000000?text=+) sandybrown (#f4a460)
-- ![](https://placehold.it/15/f5deb3/000000?text=+) wheat (#f5deb3)
-- ![](https://placehold.it/15/f5f5dc/000000?text=+) beige (#f5f5dc)
-- ![](https://placehold.it/15/f5f5f5/000000?text=+) whitesmoke (#f5f5f5)
-- ![](https://placehold.it/15/f5fffa/000000?text=+) mintcream (#f5fffa)
-- ![](https://placehold.it/15/f8f8ff/000000?text=+) ghostwhite (#f8f8ff)
-- ![](https://placehold.it/15/fa8072/000000?text=+) salmon (#fa8072)
-- ![](https://placehold.it/15/faebd7/000000?text=+) antiquewhite (#faebd7)
-- ![](https://placehold.it/15/faf0e6/000000?text=+) linen (#faf0e6)
-- ![](https://placehold.it/15/fafad2/000000?text=+) lightgoldenrodyellow (#fafad2)
-- ![](https://placehold.it/15/fdf5e6/000000?text=+) oldlace (#fdf5e6)
-- ![](https://placehold.it/15/ff0000/000000?text=+) red (#ff0000)
-- ![](https://placehold.it/15/ff00ff/000000?text=+) fuchsia (#ff00ff)
-- ![](https://placehold.it/15/ff00ff/000000?text=+) magenta (#ff00ff)
-- ![](https://placehold.it/15/ff1493/000000?text=+) deeppink (#ff1493)
-- ![](https://placehold.it/15/ff4500/000000?text=+) orangered (#ff4500)
-- ![](https://placehold.it/15/ff6347/000000?text=+) tomato (#ff6347)
-- ![](https://placehold.it/15/ff69b4/000000?text=+) hotpink (#ff69b4)
-- ![](https://placehold.it/15/ff7f50/000000?text=+) coral (#ff7f50)
-- ![](https://placehold.it/15/ff8c00/000000?text=+) darkorange (#ff8c00)
-- ![](https://placehold.it/15/ffa07a/000000?text=+) lightsalmon (#ffa07a)
-- ![](https://placehold.it/15/ffa500/000000?text=+) orange (#ffa500)
-- ![](https://placehold.it/15/ffb6c1/000000?text=+) lightpink (#ffb6c1)
-- ![](https://placehold.it/15/ffc0cb/000000?text=+) pink (#ffc0cb)
-- ![](https://placehold.it/15/ffd700/000000?text=+) gold (#ffd700)
-- ![](https://placehold.it/15/ffdab9/000000?text=+) peachpuff (#ffdab9)
-- ![](https://placehold.it/15/ffdead/000000?text=+) navajowhite (#ffdead)
-- ![](https://placehold.it/15/ffe4b5/000000?text=+) moccasin (#ffe4b5)
-- ![](https://placehold.it/15/ffe4c4/000000?text=+) bisque (#ffe4c4)
-- ![](https://placehold.it/15/ffe4e1/000000?text=+) mistyrose (#ffe4e1)
-- ![](https://placehold.it/15/ffebcd/000000?text=+) blanchedalmond (#ffebcd)
-- ![](https://placehold.it/15/ffefd5/000000?text=+) papayawhip (#ffefd5)
-- ![](https://placehold.it/15/fff0f5/000000?text=+) lavenderblush (#fff0f5)
-- ![](https://placehold.it/15/fff5ee/000000?text=+) seashell (#fff5ee)
-- ![](https://placehold.it/15/fff8dc/000000?text=+) cornsilk (#fff8dc)
-- ![](https://placehold.it/15/fffacd/000000?text=+) lemonchiffon (#fffacd)
-- ![](https://placehold.it/15/fffaf0/000000?text=+) floralwhite (#fffaf0)
-- ![](https://placehold.it/15/fffafa/000000?text=+) snow (#fffafa)
-- ![](https://placehold.it/15/ffff00/000000?text=+) yellow (#ffff00)
-- ![](https://placehold.it/15/ffffe0/000000?text=+) lightyellow (#ffffe0)
-- ![](https://placehold.it/15/fffff0/000000?text=+) ivory (#fffff0)
-- ![](https://placehold.it/15/ffffff/000000?text=+) white (#ffffff)
+<ul><b>
+  <li style="list-style-type: square; color:#000000;"><span style="color:black">black (#000000)</span>
+  <li style="list-style-type: square; color:#000080;"><span style="color:black">navy (#000080)</span>
+  <li style="list-style-type: square; color:#00008b;"><span style="color:black">darkblue (#00008b)</span>
+  <li style="list-style-type: square; color:#191970;"><span style="color:black">midnightblue (#191970)</span>
+  <li style="list-style-type: square; color:#0000cd;"><span style="color:black">mediumblue (#0000cd)</span>
+  <li style="list-style-type: square; color:#0000ff;"><span style="color:black">blue (#0000ff)</span>
+  <li style="list-style-type: square; color:#006400;"><span style="color:black">darkgreen (#006400)</span>
+  <li style="list-style-type: square; color:#008000;"><span style="color:black">green (#008000)</span>
+  <li style="list-style-type: square; color:#008080;"><span style="color:black">teal (#008080)</span>
+  <li style="list-style-type: square; color:#008b8b;"><span style="color:black">darkcyan (#008b8b)</span>
+  <li style="list-style-type: square; color:#00bfff;"><span style="color:black">deepskyblue (#00bfff)</span>
+  <li style="list-style-type: square; color:#00ced1;"><span style="color:black">darkturquoise (#00ced1)</span>
+  <li style="list-style-type: square; color:#00fa9a;"><span style="color:black">mediumspringgreen (#00fa9a)</span>
+  <li style="list-style-type: square; color:#00ff00;"><span style="color:black">lime (#00ff00)</span>
+  <li style="list-style-type: square; color:#00ff7f;"><span style="color:black">springgreen (#00ff7f)</span>
+  <li style="list-style-type: square; color:#00ffff;"><span style="color:black">aqua (#00ffff)</span>
+  <li style="list-style-type: square; color:#00ffff;"><span style="color:black">cyan (#00ffff)</span>
+  <li style="list-style-type: square; color:#1e90ff;"><span style="color:black">dodgerblue (#1e90ff)</span>
+  <li style="list-style-type: square; color:#20b2aa;"><span style="color:black">lightseagreen (#20b2aa)</span>
+  <li style="list-style-type: square; color:#228b22;"><span style="color:black">forestgreen (#228b22)</span>
+  <li style="list-style-type: square; color:#2e8b57;"><span style="color:black">seagreen (#2e8b57)</span>
+  <li style="list-style-type: square; color:#2f4f4f;"><span style="color:black">darkslategrey (#2f4f4f)</span>
+  <li style="list-style-type: square; color:#32cd32;"><span style="color:black">limegreen (#32cd32)</span>
+  <li style="list-style-type: square; color:#3cb371;"><span style="color:black">mediumseagreen (#3cb371)</span>
+  <li style="list-style-type: square; color:#40e0d0;"><span style="color:black">turquoise (#40e0d0)</span>
+  <li style="list-style-type: square; color:#4169e1;"><span style="color:black">royalblue (#4169e1)</span>
+  <li style="list-style-type: square; color:#4682b4;"><span style="color:black">steelblue (#4682b4)</span>
+  <li style="list-style-type: square; color:#483d8b;"><span style="color:black">darkslateblue (#483d8b)</span>
+  <li style="list-style-type: square; color:#48d1cc;"><span style="color:black">mediumturquoise (#48d1cc)</span>
+  <li style="list-style-type: square; color:#4b0082;"><span style="color:black">indigo (#4b0082)</span>
+  <li style="list-style-type: square; color:#556b2f;"><span style="color:black">darkolivegreen (#556b2f)</span>
+  <li style="list-style-type: square; color:#5f9ea0;"><span style="color:black">cadetblue (#5f9ea0)</span>
+  <li style="list-style-type: square; color:#6495ed;"><span style="color:black">cornflowerblue (#6495ed)</span>
+  <li style="list-style-type: square; color:#663399;"><span style="color:black">rebeccapurple (#663399)</span>
+  <li style="list-style-type: square; color:#66cdaa;"><span style="color:black">mediumaquamarine (#66cdaa)</span>
+  <li style="list-style-type: square; color:#696969;"><span style="color:black">dimgray (#696969)</span>
+  <li style="list-style-type: square; color:#696969;"><span style="color:black">dimgrey (#696969)</span>
+  <li style="list-style-type: square; color:#6a5acd;"><span style="color:black">slateblue (#6a5acd)</span>
+  <li style="list-style-type: square; color:#6b8e23;"><span style="color:black">olivedrab (#6b8e23)</span>
+  <li style="list-style-type: square; color:#708090;"><span style="color:black">slategray (#708090)</span>
+  <li style="list-style-type: square; color:#778899;"><span style="color:black">lightslategrey (#778899)</span>
+  <li style="list-style-type: square; color:#7b68ee;"><span style="color:black">mediumslateblue (#7b68ee)</span>
+  <li style="list-style-type: square; color:#7cfc00;"><span style="color:black">lawngreen (#7cfc00)</span>
+  <li style="list-style-type: square; color:#7fff00;"><span style="color:black">chartreuse (#7fff00)</span>
+  <li style="list-style-type: square; color:#7fffd4;"><span style="color:black">aquamarine (#7fffd4)</span>
+  <li style="list-style-type: square; color:#800000;"><span style="color:black">maroon (#800000)</span>
+  <li style="list-style-type: square; color:#800080;"><span style="color:black">purple (#800080)</span>
+  <li style="list-style-type: square; color:#808000;"><span style="color:black">olive (#808000)</span>
+  <li style="list-style-type: square; color:#808080;"><span style="color:black">gray (#808080)</span>
+  <li style="list-style-type: square; color:#808080;"><span style="color:black">grey (#808080)</span>
+  <li style="list-style-type: square; color:#87ceeb;"><span style="color:black">skyblue (#87ceeb)</span>
+  <li style="list-style-type: square; color:#87cefa;"><span style="color:black">lightskyblue (#87cefa)</span>
+  <li style="list-style-type: square; color:#8a2be2;"><span style="color:black">blueviolet (#8a2be2)</span>
+  <li style="list-style-type: square; color:#8b0000;"><span style="color:black">darkred (#8b0000)</span>
+  <li style="list-style-type: square; color:#8b008b;"><span style="color:black">darkmagenta (#8b008b)</span>
+  <li style="list-style-type: square; color:#8b4513;"><span style="color:black">saddlebrown (#8b4513)</span>
+  <li style="list-style-type: square; color:#8fbc8f;"><span style="color:black">darkseagreen (#8fbc8f)</span>
+  <li style="list-style-type: square; color:#90ee90;"><span style="color:black">lightgreen (#90ee90)</span>
+  <li style="list-style-type: square; color:#9370db;"><span style="color:black">mediumpurple (#9370db)</span>
+  <li style="list-style-type: square; color:#9400d3;"><span style="color:black">darkviolet (#9400d3)</span>
+  <li style="list-style-type: square; color:#98fb98;"><span style="color:black">palegreen (#98fb98)</span>
+  <li style="list-style-type: square; color:#9932cc;"><span style="color:black">darkorchid (#9932cc)</span>
+  <li style="list-style-type: square; color:#9acd32;"><span style="color:black">yellowgreen (#9acd32)</span>
+  <li style="list-style-type: square; color:#a0522d;"><span style="color:black">sienna (#a0522d)</span>
+  <li style="list-style-type: square; color:#a52a2a;"><span style="color:black">brown (#a52a2a)</span>
+  <li style="list-style-type: square; color:#a9a9a9;"><span style="color:black">darkgray (#a9a9a9)</span>
+  <li style="list-style-type: square; color:#a9a9a9;"><span style="color:black">darkgrey (#a9a9a9)</span>
+  <li style="list-style-type: square; color:#add8e6;"><span style="color:black">lightblue (#add8e6)</span>
+  <li style="list-style-type: square; color:#adff2f;"><span style="color:black">greenyellow (#adff2f)</span>
+  <li style="list-style-type: square; color:#afeeee;"><span style="color:black">paleturquoise (#afeeee)</span>
+  <li style="list-style-type: square; color:#b0c4de;"><span style="color:black">lightsteelblue (#b0c4de)</span>
+  <li style="list-style-type: square; color:#b0e0e6;"><span style="color:black">powderblue (#b0e0e6)</span>
+  <li style="list-style-type: square; color:#b22222;"><span style="color:black">firebrick (#b22222)</span>
+  <li style="list-style-type: square; color:#b8860b;"><span style="color:black">darkgoldenrod (#b8860b)</span>
+  <li style="list-style-type: square; color:#ba55d3;"><span style="color:black">mediumorchid (#ba55d3)</span>
+  <li style="list-style-type: square; color:#bc8f8f;"><span style="color:black">rosybrown (#bc8f8f)</span>
+  <li style="list-style-type: square; color:#bdb76b;"><span style="color:black">darkkhaki (#bdb76b)</span>
+  <li style="list-style-type: square; color:#c0c0c0;"><span style="color:black">silver (#c0c0c0)</span>
+  <li style="list-style-type: square; color:#c71585;"><span style="color:black">mediumvioletred (#c71585)</span>
+  <li style="list-style-type: square; color:#cd5c5c;"><span style="color:black">indianred (#cd5c5c)</span>
+  <li style="list-style-type: square; color:#cd853f;"><span style="color:black">peru (#cd853f)</span>
+  <li style="list-style-type: square; color:#d2691e;"><span style="color:black">chocolate (#d2691e)</span>
+  <li style="list-style-type: square; color:#d2b48c;"><span style="color:black">tan (#d2b48c)</span>
+  <li style="list-style-type: square; color:#d3d3d3;"><span style="color:black">lightgray (#d3d3d3)</span>
+  <li style="list-style-type: square; color:#d3d3d3;"><span style="color:black">lightgrey (#d3d3d3)</span>
+  <li style="list-style-type: square; color:#d8bfd8;"><span style="color:black">thistle (#d8bfd8)</span>
+  <li style="list-style-type: square; color:#da70d6;"><span style="color:black">orchid (#da70d6)</span>
+  <li style="list-style-type: square; color:#daa520;"><span style="color:black">goldenrod (#daa520)</span>
+  <li style="list-style-type: square; color:#db7093;"><span style="color:black">palevioletred (#db7093)</span>
+  <li style="list-style-type: square; color:#dc143c;"><span style="color:black">crimson (#dc143c)</span>
+  <li style="list-style-type: square; color:#dcdcdc;"><span style="color:black">gainsboro (#dcdcdc)</span>
+  <li style="list-style-type: square; color:#dda0dd;"><span style="color:black">plum (#dda0dd)</span>
+  <li style="list-style-type: square; color:#deb887;"><span style="color:black">burlywood (#deb887)</span>
+  <li style="list-style-type: square; color:#e0ffff;"><span style="color:black">lightcyan (#e0ffff)</span>
+  <li style="list-style-type: square; color:#e6e6fa;"><span style="color:black">lavender (#e6e6fa)</span>
+  <li style="list-style-type: square; color:#e9967a;"><span style="color:black">darksalmon (#e9967a)</span>
+  <li style="list-style-type: square; color:#ee82ee;"><span style="color:black">violet (#ee82ee)</span>
+  <li style="list-style-type: square; color:#eee8aa;"><span style="color:black">palegoldenrod (#eee8aa)</span>
+  <li style="list-style-type: square; color:#f08080;"><span style="color:black">lightcoral (#f08080)</span>
+  <li style="list-style-type: square; color:#f0e68c;"><span style="color:black">khaki (#f0e68c)</span>
+  <li style="list-style-type: square; color:#f0f8ff;"><span style="color:black">aliceblue (#f0f8ff)</span>
+  <li style="list-style-type: square; color:#f0fff0;"><span style="color:black">honeydew (#f0fff0)</span>
+  <li style="list-style-type: square; color:#f0ffff;"><span style="color:black">azure (#f0ffff)</span>
+  <li style="list-style-type: square; color:#f4a460;"><span style="color:black">sandybrown (#f4a460)</span>
+  <li style="list-style-type: square; color:#f5deb3;"><span style="color:black">wheat (#f5deb3)</span>
+  <li style="list-style-type: square; color:#f5f5dc;"><span style="color:black">beige (#f5f5dc)</span>
+  <li style="list-style-type: square; color:#f5f5f5;"><span style="color:black">whitesmoke (#f5f5f5)</span>
+  <li style="list-style-type: square; color:#f5fffa;"><span style="color:black">mintcream (#f5fffa)</span>
+  <li style="list-style-type: square; color:#f8f8ff;"><span style="color:black">ghostwhite (#f8f8ff)</span>
+  <li style="list-style-type: square; color:#fa8072;"><span style="color:black">salmon (#fa8072)</span>
+  <li style="list-style-type: square; color:#faebd7;"><span style="color:black">antiquewhite (#faebd7)</span>
+  <li style="list-style-type: square; color:#faf0e6;"><span style="color:black">linen (#faf0e6)</span>
+  <li style="list-style-type: square; color:#fafad2;"><span style="color:black">lightgoldenrodyellow (#fafad2)</span>
+  <li style="list-style-type: square; color:#fdf5e6;"><span style="color:black">oldlace (#fdf5e6)</span>
+  <li style="list-style-type: square; color:#ff0000;"><span style="color:black">red (#ff0000)</span>
+  <li style="list-style-type: square; color:#ff00ff;"><span style="color:black">fuchsia (#ff00ff)</span>
+  <li style="list-style-type: square; color:#ff00ff;"><span style="color:black">magenta (#ff00ff)</span>
+  <li style="list-style-type: square; color:#ff1493;"><span style="color:black">deeppink (#ff1493)</span>
+  <li style="list-style-type: square; color:#ff4500;"><span style="color:black">orangered (#ff4500)</span>
+  <li style="list-style-type: square; color:#ff6347;"><span style="color:black">tomato (#ff6347)</span>
+  <li style="list-style-type: square; color:#ff69b4;"><span style="color:black">hotpink (#ff69b4)</span>
+  <li style="list-style-type: square; color:#ff7f50;"><span style="color:black">coral (#ff7f50)</span>
+  <li style="list-style-type: square; color:#ff8c00;"><span style="color:black">darkorange (#ff8c00)</span>
+  <li style="list-style-type: square; color:#ffa07a;"><span style="color:black">lightsalmon (#ffa07a)</span>
+  <li style="list-style-type: square; color:#ffa500;"><span style="color:black">orange (#ffa500)</span>
+  <li style="list-style-type: square; color:#ffb6c1;"><span style="color:black">lightpink (#ffb6c1)</span>
+  <li style="list-style-type: square; color:#ffc0cb;"><span style="color:black">pink (#ffc0cb)</span>
+  <li style="list-style-type: square; color:#ffd700;"><span style="color:black">gold (#ffd700)</span>
+  <li style="list-style-type: square; color:#ffdab9;"><span style="color:black">peachpuff (#ffdab9)</span>
+  <li style="list-style-type: square; color:#ffdead;"><span style="color:black">navajowhite (#ffdead)</span>
+  <li style="list-style-type: square; color:#ffe4b5;"><span style="color:black">moccasin (#ffe4b5)</span>
+  <li style="list-style-type: square; color:#ffe4c4;"><span style="color:black">bisque (#ffe4c4)</span>
+  <li style="list-style-type: square; color:#ffe4e1;"><span style="color:black">mistyrose (#ffe4e1)</span>
+  <li style="list-style-type: square; color:#ffebcd;"><span style="color:black">blanchedalmond (#ffebcd)</span>
+  <li style="list-style-type: square; color:#ffefd5;"><span style="color:black">papayawhip (#ffefd5)</span>
+  <li style="list-style-type: square; color:#fff0f5;"><span style="color:black">lavenderblush (#fff0f5)</span>
+  <li style="list-style-type: square; color:#fff5ee;"><span style="color:black">seashell (#fff5ee)</span>
+  <li style="list-style-type: square; color:#fff8dc;"><span style="color:black">cornsilk (#fff8dc)</span>
+  <li style="list-style-type: square; color:#fffacd;"><span style="color:black">lemonchiffon (#fffacd)</span>
+  <li style="list-style-type: square; color:#fffaf0;"><span style="color:black">floralwhite (#fffaf0)</span>
+  <li style="list-style-type: square; color:#fffafa;"><span style="color:black">snow (#fffafa)</span>
+  <li style="list-style-type: square; color:#ffff00;"><span style="color:black">yellow (#ffff00)</span>
+  <li style="list-style-type: square; color:#ffffe0;"><span style="color:black">lightyellow (#ffffe0)</span>
+  <li style="list-style-type: square; color:#fffff0;"><span style="color:black">ivory (#fffff0)</span>
+  <li style="list-style-type: square; color:#ffffff;"><span style="color:black">white (#ffffff)</span>
+</b></ul>
