@@ -1,5 +1,7 @@
 ### Named colors
 
+Needs fixing - [Check here instead](https://www.w3schools.com/colors/colors_names.asp)
+
 <ul><b>
   <li style="list-style-type: square; color:#000000;"><span style="color:black">black (#000000)</span>
   <li style="list-style-type: square; color:#000080;"><span style="color:black">navy (#000080)</span>
